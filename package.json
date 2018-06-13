@@ -1,0 +1,10 @@
+{
+  "name": "bsr-scrapper",
+  "version": "0.0.1",
+  "main": "src/app.js",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "nightmare": "^3.0.1"
+  }
+}
